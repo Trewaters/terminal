@@ -4,21 +4,16 @@ theme = "hugo-theme-terminal"
 paginate = 5
 
 [params]
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-  # ["orange", "blue", "red", "green", "pink"]
+  contentTypeName = "post"
   themeColor = "orange"
-  # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
-  # set theme to full screen width
   fullWidthTheme = false
-  # center theme with default width
   centerTheme = false
 
 [languages]
   [languages.en]
-    title = "TwilApi Portfolio Project"
-    subtitle = "Portfolio project using Twilio API calls to send & recieve SMS messages. All rates apply!"
+    title = "Terminal"
+    subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -37,4 +32,4 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"
-        url = "/showcase"
+        url = "/showcase/showcase-me"

@@ -35,3 +35,5 @@ description: Bio about Tre' Grisby
 <p><a href="https://www.linkedin.com/in/trewaters/" target="_blank" rel="noopener"><img class="alignnone size-full wp-image-276" src="https://3waters.org/wp-content/uploads/2018/11/In-2C-48px-R.png" alt="" width="57" height="48" /></a><a href="https://www.linkedin.com/in/trewaters/" target="_blank" rel="noopener">LinkedIn</a> ( Tre' Grisby )</p>
 <p><a href="https://gitconnected.com/trewaters" target="_blank" rel="noopener"><img class="alignnone size-full wp-image-279" src="https://3waters.org/wp-content/uploads/2018/11/gitconnected-social-logo.png" alt="" width="48" height="28" /></a> <a href="https://gitconnected.com/trewaters" target="_blank" rel="noopener">Gitconnected</a> ( trewaters)</p>
 <p><a href="https://github.com/Trewaters" target="_blank" rel="noopener"><img class="alignnone size-full wp-image-267" src="https://3waters.org/wp-content/uploads/2018/11/GitHub-hex-color.png" alt="" width="64" height="73" /></a><a href="https://github.com/Trewaters" target="_blank" rel="noopener">GitHub</a> ( trewaters )</p>
+
+
