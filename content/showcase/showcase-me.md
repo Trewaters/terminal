@@ -3,9 +3,9 @@ title: "Twilio sms messaging with API"
 date: 2019-03-14
 description: "allow user to send and recieve sms messages from this page"
 ---
-
+<!-- 
 https://twil-test.herokuapp.com/
-
+ -->
 
 <p>Here are a couple jokes while you wait:</p>
 <div id="jokes">
