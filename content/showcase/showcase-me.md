@@ -1,7 +1,7 @@
 ---
-title: "Twilio sms messaging with API"
+title: "Geek Jokes API"
 date: 2019-03-14
-description: "allow user to send and recieve sms messages from this page"
+description: "Serve silly jokes"
 ---
 <!-- 
 https://twil-test.herokuapp.com/
