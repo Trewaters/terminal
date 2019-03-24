@@ -2,6 +2,7 @@
 title: "About (Tre') Lewis Grisby III"
 date: 2019-03-14
 description: Bio about Tre' Grisby
+draft: true
 ---
 
 <p style="text-align: left;"><strong>3Waters</strong> provides technology consulting. Targeting small to medium sized businesses. The goal is to help companies overcome their technological challenges with custom solutions. Software and technology needs trained individuals. 3Waters also provides additional training for your staff.</p>

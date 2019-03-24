@@ -28,8 +28,8 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about/about-me"
+        url = "/about"
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"
-        url = "/showcase/showcase-me"
+        url = "/showcase"
